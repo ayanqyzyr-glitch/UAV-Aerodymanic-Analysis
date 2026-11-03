@@ -31,7 +31,7 @@ Here are preview highlights of the simulated performance curves:
 
 | Lift Coefficient ($C_L$ vs $\alpha$) | Drag Polar ($C_L$ vs $C_D$) | Aerodynamic Efficiency ($C_L / C_D$) |
 | :---: | :---: | :---: |
-| <img src="assets/lift_alpha.png" width="220"> | <img src="assets/cl_cd_polar.png" width="220"> | <img src="assets/efficiency.png" width="220"> |
+| <img src="https://github.com/ayanqyzyr-glitch/UAV-Aerodymanic-Analysis/blob/main/Cl%20x%20a.jpeg" width="220"> | <img src="https://github.com/ayanqyzyr-glitch/UAV-Aerodymanic-Analysis/blob/main/Cl%20x%20Cd%20.jpeg" width="220"> | <img src="https://github.com/ayanqyzyr-glitch/UAV-Aerodymanic-Analysis/blob/main/Cl%2CCd%20x%20a.jpeg.png" width="220"> |
 
 ---
 
