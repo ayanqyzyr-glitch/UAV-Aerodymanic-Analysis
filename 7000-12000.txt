@@ -1,0 +1,86 @@
+7000
+Re    =  200000 
+Alpha =   7.00°
+Mach  =   0.000 
+NCrit =   9.0 
+CL    =   0.97699 
+CD    =   0.01476 
+Cm    =  -0.04258 
+Cdp   =   0.00760 
+Cpmn  =  -2.64342 
+XCP   =   0.28535 
+Top Transition =   0.30023 
+Bot Transition =   1.00000 
+
+8000
+Re    =  200000 
+Alpha =   8.00°
+Mach  =   0.000 
+NCrit =   9.0 
+CL    =   1.04627 
+CD    =   0.01777 
+Cm    =  -0.03627 
+Cdp   =   0.00994 
+Cpmn  =  -3.16889 
+XCP   =   0.27523 
+Top Transition =   0.16122 
+Bot Transition =   1.00000 
+
+9000
+Re    =  200000 
+Alpha =   9.00°
+Mach  =   0.000 
+NCrit =   9.0 
+CL    =   1.10549 
+CD    =   0.02165 
+Cm    =  -0.02881 
+Cdp   =   0.01348 
+Cpmn  =  -3.69744 
+XCP   =   0.26537 
+Top Transition =   0.09295 
+Bot Transition =   1.00000 
+
+10000
+Re    =  200000 
+Alpha =  10.00°
+Mach  =   0.000 
+NCrit =   9.0 
+CL    =   1.15277 
+CD    =   0.02594 
+Cm    =  -0.01996 
+Cdp   =   0.01785 
+Cpmn  =  -4.17972 
+XCP   =   0.25528 
+Top Transition =   0.06833 
+Bot Transition =   1.00000 
+
+11000
+Re    =  200000 
+Alpha =  11.00°
+Mach  =   0.000 
+NCrit =   9.0 
+CL    =   1.19940 
+CD    =   0.03101 
+Cm    =  -0.01238 
+Cdp   =   0.02313 
+Cpmn  =  -4.64909 
+XCP   =   0.24686 
+Top Transition =   0.05522 
+Bot Transition =   1.00000 
+
+12000
+Re    =  200000 
+Alpha =  12.00°
+Mach  =   0.000 
+NCrit =   9.0 
+CL    =   1.24291 
+CD    =   0.03719 
+Cm    =  -0.00618 
+Cdp   =   0.02956 
+Cpmn  =  -5.12928 
+XCP   =   0.24000 
+Top Transition =   0.04590 
+Bot Transition =   1.00000 
+
+
+
