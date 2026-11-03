@@ -13,7 +13,7 @@ This repository contains computational fluid dynamics (CFD) / panel method simul
 
 ### 📄 Download Full Report
 You can view or download the complete formatted engineering document here:
-👉 **[View PDF Report](./reports/xflr5_uav_aerodynamic_report.pdf)**
+👉 **[View PDF Report](https://github.com/ayanqyzyr-glitch/UAV-Aerodymanic-Analysis/blob/main/XFLR5%20Aerodynamic%20Analysis%20Report%20(2).pdf)**
 
 ---
 
